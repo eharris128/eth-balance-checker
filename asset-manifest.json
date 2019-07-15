@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/eth-balance-checker/static/css/main.db6db43e.chunk.css",
+    "main.js": "/eth-balance-checker/static/js/main.61ac8298.chunk.js",
+    "main.js.map": "/eth-balance-checker/static/js/main.61ac8298.chunk.js.map",
+    "runtime~main.js": "/eth-balance-checker/static/js/runtime~main.09f2c20a.js",
+    "runtime~main.js.map": "/eth-balance-checker/static/js/runtime~main.09f2c20a.js.map",
+    "static/js/2.d73e3c18.chunk.js": "/eth-balance-checker/static/js/2.d73e3c18.chunk.js",
+    "static/js/2.d73e3c18.chunk.js.map": "/eth-balance-checker/static/js/2.d73e3c18.chunk.js.map",
+    "index.html": "/eth-balance-checker/index.html",
+    "precache-manifest.f204183b0732ff59d7535ba6892eb585.js": "/eth-balance-checker/precache-manifest.f204183b0732ff59d7535ba6892eb585.js",
+    "service-worker.js": "/eth-balance-checker/service-worker.js",
+    "static/css/main.db6db43e.chunk.css.map": "/eth-balance-checker/static/css/main.db6db43e.chunk.css.map"
+  }
+}
